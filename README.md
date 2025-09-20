@@ -97,10 +97,6 @@ portfolio/
 └── tsconfig.json            # TypeScript configuration
 ```
 
-![Application Screenshot](/portfolio.png)
-_Placeholder for an application screenshot demonstrating key UI elements._
-
-
 ## 🛣️ Project Roadmap
 
 My portfolio is a living project, and I have several enhancements planned for the future:
